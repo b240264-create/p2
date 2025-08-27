@@ -1,2 +1,2 @@
 # project
-Project is started
+Project is started.
